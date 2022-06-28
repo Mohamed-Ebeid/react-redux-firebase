@@ -1,0 +1,24 @@
+html{
+  min-height: 100%;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: serif;
+  background: url(img/pic002.jpg) no-repeat;
+  background-size: 100%;
+  background-position: center;
+  background-color: #000030;
+  min-height: 100%; 
+}
+
+form{
+  background-color: white;
+  padding: 20px;
+  margin: 50px;
+
+}
+
+
+
