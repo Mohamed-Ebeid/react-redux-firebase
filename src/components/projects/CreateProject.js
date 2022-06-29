@@ -20,7 +20,7 @@ class CreateProject extends React.Component {
 	{		
 		e.preventDefault();
 		this.props.createProject(this.state)
-		setTimeout(()=>{window.location.href = '/'}, 500)
+		// setTimeout(()=>{window.location.href = '/'}, 1000)
 	}
 
 	render() {
